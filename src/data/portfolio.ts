@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Ivan Boras",
+  name: "Igor Boras",
   title: "Full-Stack Developer",
   tagline: "Building modern web applications with clean code and great user experiences.",
   bio: "I'm a passionate full-stack developer with experience building scalable web applications. I enjoy working with modern technologies and solving complex problems. When I'm not coding, you can find me exploring new tools, contributing to open source, or writing about software development.",
